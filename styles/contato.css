@@ -130,3 +130,11 @@ hr {
     }
 
 }
+
+@media screen and (min-width: 1728px) {
+
+    .lista-rodape {
+        border-left: 1px solid grey;
+        padding-left: 1em;
+    }
+}

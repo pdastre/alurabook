@@ -64,3 +64,14 @@
     }
 
 }
+
+@media screen and (min-width: 1728px) {
+    .topicos__box {
+        padding: 3em 20vw;
+    }
+
+    .contato__descricao {
+        margin: 2em 0;
+    }
+
+}
